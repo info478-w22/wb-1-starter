@@ -6,7 +6,7 @@
 library(dplyr)
 library(ggplot2)
 
-home.dir<-"/homes/katburk/repos/iSchool/wb-1-katburk/ylls/"
+home.dir<-""
 
 
 # Load data
